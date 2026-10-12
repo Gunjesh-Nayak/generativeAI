@@ -1,5 +1,23 @@
 langchain
+<<<<<<< HEAD
 langchain-nvidia-ai-endpoints
 python-dotenv
 requests
 openai
+=======
+langchain-chroma
+langchain-classic
+langchain-community
+langchain-core
+langchain-nvidia-ai-endpoints
+langchain-text-splitters
+openai
+python-dotenv
+pydantic
+PyMuPDF
+rank-bm25
+requests
+rich
+sentence-transformers
+streamlit
+>>>>>>> origin/master
