@@ -24,7 +24,7 @@ This folder contains a small collection of Python experiments and prototypes foc
 Copy and paste this into your terminal:
 
 ```bash
-cd /Users/gunjeshnayak/Desktop/generativeAI
+cd /Users/Desktop/generativeAI
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
@@ -45,7 +45,7 @@ EOF
 ### Streamlit chat app
 
 ```bash
-cd /Users/gunjeshnayak/Desktop/generativeAI
+cd /Users/Desktop/generativeAI
 source .venv/bin/activate
 streamlit run chatModels/app.py
 ```
@@ -53,7 +53,7 @@ streamlit run chatModels/app.py
 ### Local RAG example
 
 ```bash
-cd /Users/gunjeshnayak/Desktop/generativeAI
+cd /Users/Desktop/generativeAI
 source .venv/bin/activate
 python RAG/production_RAG.py
 ```
@@ -61,7 +61,7 @@ python RAG/production_RAG.py
 ### Document loader test
 
 ```bash
-cd /Users/gunjeshnayak/Desktop/generativeAI
+cd /Users/Desktop/generativeAI
 source .venv/bin/activate
 python doc_loader/main.py
 ```
@@ -69,7 +69,7 @@ python doc_loader/main.py
 ### Tool calling example
 
 ```bash
-cd /Users/gunjeshnayak/Desktop/generativeAI
+cd /Users/Desktop/generativeAI
 source .venv/bin/activate
 python tools/toolCalling.py
 ```
